@@ -23,6 +23,13 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+PharmacyInventory/[Bb]in/
+PharmacyInventory/[Oo]bj/
+PharmacyInventory/[Ll]og/
+PharmacyInventory/[Ll]ogs/
+
+
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
